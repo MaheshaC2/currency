@@ -1,5 +1,4 @@
 #currency in USD
-
 p=int(input('wt do u have left in pesos?'))
 s=int(input('wt do u have left in soles?'))
 r=int(input('wt do u have left in reais?'))
